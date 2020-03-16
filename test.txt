@@ -1,3 +1,7 @@
 first commit on repository
+<<<<<<< HEAD
 added new line
 123456789
+=======
+added new line
+>>>>>>> 9c37bdbf2acf9925ee93d6609a9bce39904007cf
